@@ -8,7 +8,7 @@ This is a simple backend application for managing theatre tickets.
   git clone https://github.com/krish565/theatre-ticketing-backend.git
   ```
 
-2. Go to theatre-ticketing-backend directory: 
+2. Go to `theatre-ticketing-backend` directory: 
   ```
   cd theatre-ticketing-backend
   ```
@@ -18,7 +18,7 @@ This is a simple backend application for managing theatre tickets.
    npm install
    ```
 
-4. Create a ```.env``` file in the root directory of the project. Add the following environment variables
+4. Create a `.env` file in the root directory of the project. Add the following environment variables
   ```
   MONGO_USER = *your-username*
   MONGO_PASS = *your-password*
