@@ -1,0 +1,21 @@
+{
+  "name": "theatre-ticketing-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krish565/theatre-ticketing-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krish565/theatre-ticketing-backend/issues"
+  },
+  "homepage": "https://github.com/krish565/theatre-ticketing-backend#readme"
+}
