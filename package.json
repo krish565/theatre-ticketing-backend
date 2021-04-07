@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index",
+    "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,5 +18,13 @@
   "bugs": {
     "url": "https://github.com/krish565/theatre-ticketing-backend/issues"
   },
-  "homepage": "https://github.com/krish565/theatre-ticketing-backend#readme"
+  "homepage": "https://github.com/krish565/theatre-ticketing-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "mongodb": "^3.6.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
